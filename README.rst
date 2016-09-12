@@ -1,7 +1,7 @@
 S.O.L.I.D.
 ==========
 
-.. toctree::
+ .. toctree::
     :titlesonly:
     :numbered:
 
