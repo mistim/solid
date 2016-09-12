@@ -3,12 +3,12 @@ S.O.L.I.D.
 
 .. toctree::
     :titlesonly:
-   :numbered:
+    :numbered:
 
-   Creational/README
-   Structural/README
-   Behavioral/README
-   More/README
+    Creational/README
+    Structural/README
+    Behavioral/README
+    More/README
 
 Зачем это?
 ----------
