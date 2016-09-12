@@ -1,5 +1,5 @@
-`Open/close principle (OCP)`__
-==============================
+Open/close principle (OCP)
+==========================
 
 Принцип открытости/закрытости
 =============================
@@ -25,39 +25,37 @@
 bad/Logger.php
 
 .. literalinclude:: bad/Logger.php
-   :language: php
-   :linenos:
+:language: php
+       :linenos:
 
-bad/DbLogger.php
+    bad/DbLogger.php
 
 .. literalinclude:: bad/DbLogger.php
-   :language: php
-   :linenos:
+:language: php
+       :linenos:
 
-bad/SmtpMail.php
+    bad/SmtpMail.php
 
 .. literalinclude:: bad/SmtpMail.php
-   :language: php
-   :linenos:
+:language: php
+       :linenos:
 
-Хорошо:
+    Плохо:
 
-Плохо:
-
-ok/Logger.php
+    ok/Logger.php
 
 .. literalinclude:: ok/Logger.php
-   :language: php
-   :linenos:
+:language: php
+       :linenos:
 
-ok/DbLogger.php
+    ok/DbLogger.php
 
 .. literalinclude:: ok/DbLogger.php
-   :language: php
-   :linenos:
+:language: php
+       :linenos:
 
-ok/SmtpMail.php
+    ok/SmtpMail.php
 
 .. literalinclude:: ok/SmtpMail.php
-   :language: php
-   :linenos:
+:language: php
+       :linenos:
