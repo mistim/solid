@@ -5,6 +5,10 @@ namespace solid\ocp\bad;
 use solid\ocp\bab\DbLogger;
 use solid\ocp\bab\Logger;
 
+/**
+ * Class SmtpMail
+ * @package solid\ocp\bad
+ */
 class SmtpMail
 {
 	private $logger;
