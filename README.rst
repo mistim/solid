@@ -1,15 +1,12 @@
 S.O.L.I.D.
 ==========
 
-.. toctree::
+ .. toctree::
+    :maxdepth: 2
     :titlesonly:
     :numbered:
 
-    srp/README
-    ocp/README
-    lsp/README
-    isp/README
-    dip/README
+    ocp/README.rst
 
 Зачем это?
 ----------
