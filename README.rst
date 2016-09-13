@@ -1,14 +1,15 @@
 S.O.L.I.D.
 ==========
 
- .. toctree::
+.. toctree::
     :titlesonly:
     :numbered:
 
-    Creational/README
-    Structural/README
-    Behavioral/README
-    More/README
+    srp/README
+    ocp/README
+    lsp/README
+    isp/README
+    dip/README
 
 Зачем это?
 ----------
